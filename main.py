@@ -28,9 +28,9 @@ def interrogare_alunni(alunni, quanti):
             file.write(alunno + "\n")
 
 alunni = [
-    "corrado",
-    "benny",
-    "erika"
+    "test1",
+    "test2",
+    "test3"
 ]
 
 nalunni = int(input("Quanti alunni vuoi interrogare?"))
